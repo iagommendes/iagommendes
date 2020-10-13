@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there, 👋
+### I'm Iago Mendes, Junior Web Developer, from Brazil.
 
-<!--
-**iagommendes/iagommendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my personal porfolio (soon here on Github).
+- 🌱 I’m currently learning ReactJS and basic principles of ux design.
+- 👯 I’m looking to collaborate on Open Source projects.
+- 🤔 I’m looking for help with algorithms and data structures
+- 💬 Ask me about UX design and web development.
+- 📫 How to reach me: iagommendes@gmail.com
+- 🎮 Currently playing: NFS Heat.
