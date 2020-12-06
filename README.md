@@ -9,4 +9,3 @@ About me:
 - 🤔 I’m looking for help with algorithms and data structures
 - 💬 Ask me about UX design and web development.
 - 📫 How to reach me: iagommendes@gmail.com
-- 🎮 Currently playing: NFS Heat.
