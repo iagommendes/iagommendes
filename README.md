@@ -1,5 +1,5 @@
 ### Hi there, 👋
-### I'm Iago Mendes, Junior Web Developer, from Brazil.
+### I'm Iago Mendes, Web Developer, from Brazil.
 
 About me:
 
