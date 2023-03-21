@@ -1,5 +1,5 @@
 ### Hi there, 👋
-### I'm Iago Mendes, Programmer and Advertiser, from Brazil.
+### I'm Iago Mendes, Frontend Developer and Designer, from Brazil.
 
 I am a Frontend Developer and Designer, with a degree in Social Communication with a focus on Advertising and Publicity. I am passionate about technology, design, art, and innovation!
 
