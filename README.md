@@ -24,8 +24,8 @@ I'm constantly learning new things in both design and tech to stay at the forefr
 I love sharing knowledge and seeing young talents grow. My happiest moments are when I'm teaching and empowering future designers and developers. 🤓
 
 ## 📫 Get in Touch
-- [LinkedIn](https://linkedin.com/in/seunome)
-- [Portfolio](https://seuportfólio.com)
+- [LinkedIn](https://linkedin.com/in/iagommendes)
+- [Portfolio](https://bento.me/iagommendes)
 
 Feel free to explore my repositories, and let's create something amazing together! 🤝
 
