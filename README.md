@@ -1,33 +1,32 @@
 # 👋 Hey there! I'm Iago Mendes
 
-🚀 UI/UX Designer & Developer with 5+ years of experience transforming ideas into intuitive digital experiences that make life simpler and more enjoyable. My focus is always on bridging the gap between people and technology through thoughtful design and code.
+🚀 **Frontend Developer** com mais de 5 anos de experiência em desenvolvimento de interfaces intuitivas e envolventes que facilitam o dia a dia dos usuários. Tenho paixão por criar interfaces acessíveis e responsivas, sempre focando na usabilidade e no impacto positivo da tecnologia.
 
 ## 💡 What I Do
-- **🎨 UI/UX Design**: Crafting clean, intuitive interfaces and delightful user experiences.
-- **💻 Frontend Development**: Bringing designs to life with HTML, CSS, and JavaScript.
-- **👨‍🏫 Educator**: Passionate about teaching young people from underrepresented communities, helping them explore design and technology.
+- **💻 Frontend Development**: Transformo designs em experiências digitais usando HTML, CSS e JavaScript. Tenho experiência com frameworks modernos para garantir a melhor performance e usabilidade nas interfaces.
+- **👨‍🏫 Educator & Mentor**: Dedico-me a ensinar jovens de comunidades sub-representadas, ajudando-os a explorar o desenvolvimento web e se capacitarem para o mercado de tecnologia.
 
 ## 🎶 Current Projects
-- Developing an exclusive app for ticket purchases of a rock band's concerts.
-- Designing a digital portfolio to showcase my work as a Visual Designer.
-- Creating an engaging eBook for social media design courses with Canva.
+- Trabalhando no desenvolvimento de um aplicativo exclusivo para compra de ingressos de shows.
+- Criando um portfólio digital para destacar meu trabalho no desenvolvimento frontend e design de interfaces.
+- Produzindo um eBook envolvente sobre design para redes sociais com Canva.
 
 ## 🛠️ Technologies & Tools
-- **Design**: Figma, Sketch, Adobe XD
 - **Frontend**: HTML, CSS, JavaScript, React
-- **Tools**: Git, VS Code, Canva
+- **Ferramentas**: Git, VS Code, Figma, Canva
 
 ## 🌱 Always Learning
-I'm constantly learning new things in both design and tech to stay at the forefront of the industry. Right now, I’m diving deeper into motion design and micro-interactions.
+Estou constantemente explorando novas tecnologias e aprimorando minhas habilidades para me manter atualizado no setor. No momento, estou me aprofundando em micro-interações e animações para melhorar a experiência do usuário.
 
 ## ✨ Fun Fact
-I love sharing knowledge and seeing young talents grow. My happiest moments are when I'm teaching and empowering future designers and developers. 🤓
+Adoro compartilhar conhecimento e ver o crescimento de novos talentos. Ensinar e capacitar futuros desenvolvedores é uma das minhas maiores realizações. 🤓
 
 ## 📫 Get in Touch
 - [LinkedIn](https://linkedin.com/in/iagommendes)
 - [Portfolio](https://bento.me/iagommendes)
 
-Feel free to explore my repositories, and let's create something amazing together! 🤝
+Explore meus repositórios e vamos construir algo incrível juntos! 🤝
 
 ---
-"Design is not just what it looks like and feels like. Design is how it works." — Steve Jobs
+
+"Design é sobre como funciona, não apenas sobre como parece." — Steve Jobs
