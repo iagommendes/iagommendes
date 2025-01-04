@@ -4,7 +4,7 @@
 
 ## 💡 What I Do
 - **💻 Frontend Development**: Transformo designs em experiências digitais usando HTML, CSS e JavaScript. Tenho experiência com frameworks modernos para garantir a melhor performance e usabilidade nas interfaces.
-- **👨‍🏫 Educator & Mentor**: Dedico-me a ensinar jovens de comunidades sub-representadas, ajudando-os a explorar o desenvolvimento web e se capacitarem para o mercado de tecnologia.
+- **👨‍🏫 Educator & Mentor**: Dedico-me a ensinar jovens de comunidades, ajudando-os a explorar o desenvolvimento web e se capacitarem para o mercado de tecnologia.
 
 ## 🎶 Current Projects
 - Trabalhando no desenvolvimento de um aplicativo exclusivo para compra de ingressos de shows.
