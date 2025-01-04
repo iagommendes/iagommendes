@@ -1,32 +1,72 @@
-# 👋 Hey there! I'm Iago Mendes
+# Olá, eu sou Iago Maciel! 👋
 
-🚀 **Frontend Developer** com mais de 5 anos de experiência em desenvolvimento de interfaces intuitivas e envolventes que facilitam o dia a dia dos usuários. Tenho paixão por criar interfaces acessíveis e responsivas, sempre focando na usabilidade e no impacto positivo da tecnologia.
+Desenvolvedor Front-End e Educador em Tecnologia com experiência tanto na indústria quanto na área educacional. Apaixonado por criar interfaces web eficientes e intuitivas utilizando tecnologias modernas como React.js, React Native, TypeScript, HTML5, CSS3 e diversas ferramentas de desenvolvimento Full Stack.
 
-## 💡 What I Do
-- **💻 Frontend Development**: Transformo designs em experiências digitais usando HTML, CSS e JavaScript. Tenho experiência com frameworks modernos para garantir a melhor performance e usabilidade nas interfaces.
-- **👨‍🏫 Educator & Mentor**: Dedico-me a ensinar jovens de comunidades, ajudando-os a explorar o desenvolvimento web e se capacitarem para o mercado de tecnologia.
+## 🚀 Sobre mim
 
-## 🎶 Current Projects
-- Trabalhando no desenvolvimento de um aplicativo exclusivo para compra de ingressos de shows.
-- Criando um portfólio digital para destacar meu trabalho no desenvolvimento frontend e design de interfaces.
-- Produzindo um eBook envolvente sobre design para redes sociais com Canva.
+- **Desenvolvedor Front-End** focado em usabilidade, desempenho e experiência do usuário.
+- **Professor de Tecnologia** no Instituto Juventude Inovação e na Infinity School, onde ministro cursos de programação e desenvolvimento Full Stack.
+- Comprometido com o **aprendizado contínuo** e em compartilhar conhecimento para formar novos profissionais na área de tecnologia.
+- Buscando oportunidades que me permitam aplicar minhas habilidades para resolver problemas reais e promover a inovação.
 
-## 🛠️ Technologies & Tools
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Ferramentas**: Git, VS Code, Figma, Canva
+## 🛠️ Tecnologias e Ferramentas
 
-## 🌱 Always Learning
-Estou constantemente explorando novas tecnologias e aprimorando minhas habilidades para me manter atualizado no setor. No momento, estou me aprofundando em micro-interações e animações para melhorar a experiência do usuário.
+- **Linguagens:** JavaScript (ES6+), TypeScript, HTML5, CSS3
+- **Frameworks e Bibliotecas:** React.js, React Native, Node.js, Tailwind CSS, Styled Components
+- **Plataformas de E-commerce:** VTEX.io
+- **Banco de Dados:** SQL
+- **Ferramentas de Versionamento:** Git, GitHub
+- **Outras Competências:** UX/UI Design, Design Responsivo, Otimização de Performance, Mentoria e Educação em Tecnologia
 
-## ✨ Fun Fact
-Adoro compartilhar conhecimento e ver o crescimento de novos talentos. Ensinar e capacitar futuros desenvolvedores é uma das minhas maiores realizações. 🤓
+## 💼 Experiências Profissionais
 
-## 📫 Get in Touch
-- [LinkedIn](https://linkedin.com/in/iagommendes)
-- [Portfolio](https://bento.me/iagommendes)
+### 🏫 Instituto Juventude Inovação
+**Professor de Tecnologia**\
+_Maio de 2024 – Dezembro de 2024 | Fortaleza, CE_
 
-Explore meus repositórios e vamos construir algo incrível juntos! 🤝
+- Ministrei aulas de programação para jovens de comunidades.
+- Desenvolvi novos cursos, elaborando matrizes curriculares e planejando aulas.
+- Criei e apliquei atividades práticas e projetos, incentivando a exploração do mundo digital e tecnologias emergentes.
 
----
+### 🖥️ Infinity School - Visual Art Creative Center
+**Professor de Tecnologia**\
+_Novembro de 2023 – Dezembro de 2024 | Fortaleza, CE_
 
-"Design é sobre como funciona, não apenas sobre como parece." — Steve Jobs
+- Preparei e conduzi aulas em cursos de Python e Desenvolvimento Full Stack.
+- Ofereci suporte personalizado aos alunos, auxiliando no desenvolvimento de habilidades técnicas.
+- Corrigi projetos e provas, fornecendo feedbacks detalhados para aprimorar o aprendizado.
+- Desenvolvi materiais extras, como exercícios e guias, para reforçar o conteúdo.
+
+### 💻 Polibras Software
+**Desenvolvedor Front-End**\
+_Novembro de 2022 – Junho de 2023 | Eusébio, CE_
+
+- Otimizei o desempenho e corrigi bugs em aplicações React e React Native.
+- Identifiquei pontos de melhoria em interfaces, implementando soluções para aprimorar a usabilidade.
+- Planejei e construí interfaces para aplicativos internos, aumentando a eficiência operacional da equipe.
+
+### 🌐 Híbrido - a Smollan company
+**Desenvolvedor Front-End**\
+_Fevereiro de 2022 – Novembro de 2022 | Brusque, SC (Remoto)_
+
+- Desenvolvi interfaces para os sites da Grande Adega e Polo Wear Miami usando VTEX.io e React.
+- Otimizei a usabilidade das interfaces, promovendo navegação intuitiva.
+- Implementei soluções que aumentaram o engajamento e contribuíram para o crescimento das vendas.
+- Desenvolvi layouts responsivos, garantindo consistência visual em todos os dispositivos.
+
+## 🎓 Formação Acadêmica
+
+**Universidade de Fortaleza (UNIFOR)**\
+_Análise e Desenvolvimento de Sistemas, Tecnologia da Informação_\
+_Janeiro de 2024 – Dezembro de 2025_
+
+## 📫 Contato
+
+- **Email:** [iagommendes@gmail.com](mailto:iagommendes@gmail.com)
+- **LinkedIn:** [Iago Maciel](https://www.linkedin.com/in/iagommaciel)
+- **Portfólio:** [iagos-portfolio.webflow.io](https://iagos-portfolio.webflow.io/))
+
+
+## 🌟 Vamos colaborar!
+
+Se você está em busca de um desenvolvedor capaz de elevar seu projeto ao próximo nível, vamos nos conectar! Entre em contato comigo em [iagommendes@gmail.com](mailto:iagommendes@gmail.com).
