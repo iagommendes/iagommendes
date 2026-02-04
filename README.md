@@ -42,8 +42,6 @@ Como professor, tenho facilidade em explicar conceitos complexos de forma clara 
 ## 📫 Vamos conversar?
 
 - ✉️ Email: **iagommendes@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/iagomacielmendes](https://linkedin.com/in/iagomacielmendes)
-- 🌐 Portfólio: [Meu Site](https://iagos-portfolio.webflow.io/)
 
 ---
 
