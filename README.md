@@ -1,49 +1,48 @@
-# 👋 Olá, eu sou o Iago Maciel Mendes
+# 👋 Hi, I'm Iago Maciel Mendes
 
-💻 Desenvolvedor **Fullstack** com foco em **PHP (Laravel, Magento)**, **Vue.js** e **Python**.  
-🎯 Experiência em sustentação e evolução de aplicações web, integrações e marketplaces.  
-📚 Professor de tecnologia com paixão por ensinar programação para jovens e iniciantes.  
-
----
-
-## 🚀 Sobre mim
-
-Sou um desenvolvedor que gosta de resolver problemas de forma simples e eficiente.  
-Trabalho tanto no **backend** quanto no **frontend**, mas sempre com um olhar especial para **boas práticas, organização de código e experiência do usuário**.  
-Como professor, tenho facilidade em explicar conceitos complexos de forma clara e objetiva — seja sobre programação, lógica ou boas práticas no desenvolvimento.
+💻 **Fullstack** Developer focused on **PHP (Laravel, Magento)**, **Vue.js**, and **Python**.  
+🎯 Experience in maintaining and evolving web applications, integrations, and marketplaces.  
+📚 Technology teacher passionate about teaching programming to youth and beginners.  
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🚀 About Me
 
-**Linguagens & Frameworks**
+I'm a developer who enjoys solving problems in a simple and efficient way.  
+I work on both **backend** and **frontend**, always with a special eye for **best practices, code organization, and user experience**.  
+As a teacher, I have a knack for explaining complex concepts clearly and objectively — whether about programming, logic, or development best practices.
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Languages & Frameworks**
 - PHP (Laravel, Magento 2)
 - JavaScript / TypeScript (Vue.js, Node.js)
-- Python (Automação, Lógica de Programação)
+- Python (Automation, Programming Logic)
 - HTML5, CSS3, SASS
 
-**Ferramentas & Outras Skills**
+**Tools & Other Skills**
 - MySQL, PostgreSQL
 - Git & GitHub
 - Docker
-- APIs REST & Integrações
-- Testes automatizados (PHPUnit, Jest)
+- REST APIs & Integrations
+- Automated tests (PHPUnit, Jest)
 
 ---
 
-## 📈 O que estou fazendo atualmente
+## 📈 What I'm Doing Now
 
-- 💼 Trabalhando com manutenção e evolução de aplicações **Magento** e **Laravel**.  
-- 🛠️ Criando soluções para integração entre sistemas e automação de processos.  
-- 📚 Desenvolvendo materiais e aulas sobre programação e tecnologia para jovens.  
+- 💼 Working on maintenance and evolution of **Magento** and **Laravel** applications.  
+- 🛠️ Creating solutions for system integrations and process automation.  
+- 📚 Developing materials and classes on programming and technology for youth.  
 
 ---
 
-## 📫 Vamos conversar?
+## 📫 Let's Connect?
 
 - ✉️ Email: **iagommendes@gmail.com**
 
 ---
 
-> _"Código é como humor — quando você precisa explicar, não é tão bom."_  
-
+> _"Code is like humor — when you have to explain it, it's not that good."_
