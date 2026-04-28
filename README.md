@@ -1,48 +1,84 @@
-# 👋 Hi, I'm Iago Maciel Mendes
+# 👋 Hi, I'm Iago Mendes
 
-💻 **Fullstack** Developer focused on **PHP (Laravel, Magento)**, **Vue.js**, and **Python**.  
-🎯 Experience in maintaining and evolving web applications, integrations, and marketplaces.  
-📚 Technology teacher passionate about teaching programming to youth and beginners.  
+### Software Engineer (Frontend Specialist) | Building Scalable & High-Performance Web Applications
 
----
-
-## 🚀 About Me
-
-I'm a developer who enjoys solving problems in a simple and efficient way.  
-I work on both **backend** and **frontend**, always with a special eye for **best practices, code organization, and user experience**.  
-As a teacher, I have a knack for explaining complex concepts clearly and objectively — whether about programming, logic, or development best practices.
+I'm a Software Engineer with 5+ years of experience, specialized in frontend development and focused on building scalable, performant, and user-centric applications.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🚀 What I Do
 
-**Languages & Frameworks**
-- PHP (Laravel, Magento 2)
-- JavaScript / TypeScript (Vue.js, Node.js)
-- Python (Automation, Programming Logic)
-- HTML5, CSS3, SASS
+- Build modern, scalable frontend architectures
+- Develop high-performance e-commerce applications
+- Solve complex problems with simple and efficient solutions
+- Optimize performance (Core Web Vitals, lazy loading, code splitting)
+- Integrate APIs and backend systems (REST, GraphQL)
+- Apply clean code, design patterns, and best practices
 
-**Tools & Other Skills**
-- MySQL, PostgreSQL
-- Git & GitHub
+---
+
+## 🧠 AI in My Workflow
+
+I actively leverage AI-powered tools (like Claude Code and GPT-based assistants) to:
+
+- Accelerate development and debugging
+- Improve code quality and refactoring
+- Streamline documentation and problem-solving
+- Increase overall engineering productivity
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- JavaScript / TypeScript
+- React
+- Vue.js
+
+**Backend & Integrations**
+- Node.js
+- PHP / Laravel
+- REST APIs / GraphQL
+
+**E-commerce**
+- Magento (Adobe Commerce)
+- VTEX
+- Shopify
+
+**Tools & Practices**
 - Docker
-- REST APIs & Integrations
-- Automated tests (PHPUnit, Jest)
+- Git & CI/CD
+- Agile (Scrum / Kanban)
+- Performance Optimization
+- AI-assisted development
 
 ---
 
-## 📈 What I'm Doing Now
+## 💼 Professional Experience Highlights
 
-- 💼 Working on maintenance and evolution of **Magento** and **Laravel** applications.  
-- 🛠️ Creating solutions for system integrations and process automation.  
-- 📚 Developing materials and classes on programming and technology for youth.  
-
----
-
-## 📫 Let's Connect?
-
-- ✉️ Email: **iagommendes@gmail.com**
+- Scalable e-commerce platforms (Magento, VTEX, Shopify)
+- Complex frontend architecture and system evolution
+- End-to-end problem solving across frontend and backend
+- Strong focus on performance, UX, and maintainability
 
 ---
 
-> _"Code is like humor — when you have to explain it, it's not that good."_
+## 🎯 Current Focus
+
+- Building scalable frontend systems
+- Improving application performance
+- Leveraging AI to deliver faster and better engineering outcomes
+- Contributing to high-impact engineering teams
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/iagommendes
+- 📧 Email: iagommendes@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy breaking down complex concepts into simple explanations — whether it's code, architecture, or ideas.
