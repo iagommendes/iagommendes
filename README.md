@@ -4,8 +4,6 @@
 
 I'm a Software Engineer with 5+ years of experience, specialized in frontend development and focused on building scalable, performant, and user-centric applications.
 
----
-
 ## 🚀 What I Do
 
 - Build modern, scalable frontend architectures
@@ -14,19 +12,6 @@ I'm a Software Engineer with 5+ years of experience, specialized in frontend dev
 - Optimize performance (Core Web Vitals, lazy loading, code splitting)
 - Integrate APIs and backend systems (REST, GraphQL)
 - Apply clean code, design patterns, and best practices
-
----
-
-## 🧠 AI in My Workflow
-
-I actively leverage AI-powered tools (like Claude Code and GPT-based assistants) to:
-
-- Accelerate development and debugging
-- Improve code quality and refactoring
-- Streamline documentation and problem-solving
-- Increase overall engineering productivity
-
----
 
 ## 🛠️ Tech Stack
 
@@ -52,16 +37,12 @@ I actively leverage AI-powered tools (like Claude Code and GPT-based assistants)
 - Performance Optimization
 - AI-assisted development
 
----
-
 ## 💼 Professional Experience Highlights
 
 - Scalable e-commerce platforms (Magento, VTEX, Shopify)
 - Complex frontend architecture and system evolution
 - End-to-end problem solving across frontend and backend
 - Strong focus on performance, UX, and maintainability
-
----
 
 ## 🎯 Current Focus
 
@@ -70,15 +51,9 @@ I actively leverage AI-powered tools (like Claude Code and GPT-based assistants)
 - Leveraging AI to deliver faster and better engineering outcomes
 - Contributing to high-impact engineering teams
 
----
-
 ## 📫 Let's Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/iagommendes
 - 📧 Email: iagommendes@gmail.com
 
 ---
-
-## ⚡ Fun Fact
-
-I enjoy breaking down complex concepts into simple explanations — whether it's code, architecture, or ideas.
